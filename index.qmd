@@ -1,0 +1,14 @@
+# Documentation of _PhysioExplorer_ for MATLAB
+
+Toolbox for statistical analysis of multivariate physiological data in 3d space (temporal, spectral, channels) or any subspace 
+
+Reference: <br>
+
+Gallicchio, G. (2025). PhysioExplorer. Zenodo. https://doi.org/10.5281/zenodo.16808782
+
+documentation 
+...work in progress... it will be here
+
+tutorials
+...work in progress... will also be here
+
